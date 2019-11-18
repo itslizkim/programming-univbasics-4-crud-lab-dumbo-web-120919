@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-["hey","hello","hi","bonjour"]
+ways_say_hello = ["hey","hello","hi","bonjour"]
 end
 
 def add_element_to_end_of_array(array, element)
